@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "unofficial-jisho-api": "^2.3.4"
+  },
+  "name": "kklc-sentences",
+  "version": "1.0.0",
+  "main": "kklc-sentences.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astragull/KKLC-Sentences.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astragull/KKLC-Sentences/issues"
+  },
+  "homepage": "https://github.com/astragull/KKLC-Sentences#readme",
+  "description": ""
+}
